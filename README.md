@@ -5,10 +5,3 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on React...
-- 🌱 I’m currently learning Spring Boot...
-- 👯 I’m looking to collaborate on Java, Computer Vision, lightning web components...
-- 💬 Ask me about Java Apex 
-- 📫 How to reach me: LinkedIn 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Our Solar system revolves around a super massive black hole.
